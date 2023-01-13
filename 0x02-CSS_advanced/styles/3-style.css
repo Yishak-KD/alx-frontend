@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
@@ -9,9 +13,6 @@
   --section-tagline: var(--color-primary);
 }
 
-html {
-  scroll-behavior: smooth;
-}
 
 body {
   color: var(--text-color);
