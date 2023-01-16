@@ -468,7 +468,7 @@ ul.row {
 
 .card-testimonial .card-avatar {
     /* border: 100px solid black; */
-    border-radius: 50%;
+    border: 50%;
     width: 10rem;
     height: 10rem;
 }
