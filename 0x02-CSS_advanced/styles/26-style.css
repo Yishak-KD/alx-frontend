@@ -468,13 +468,13 @@ ul.row {
 
 .card-testimonial .card-avatar {
     /* border: 100px solid black; */
-    border: 50%;
+    border-radius: 50%;
     width: 10rem;
     height: 10rem;
 }
 
 .card-testimonial .card-quote cite {
     display: block;
-    padding: 1rem;
+    padding-top: 1rem;
     color: var(--color-primary);
 }
