@@ -480,7 +480,7 @@ ul.row {
 }
 
 .section-hero {
-    background-size: auto 90rem;
+    background: auto 90rem;
     /* width: 90rem;
     height: auto; */
 }
