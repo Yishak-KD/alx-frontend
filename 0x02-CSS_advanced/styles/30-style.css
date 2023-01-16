@@ -549,7 +549,7 @@ ul.row {
 }
 
 .card-work:hover .card-title {
-    background-color: regba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
