@@ -402,6 +402,6 @@ ul.row {
     padding: 0.5rem;
 }
 
-[dark-section-theme="dark"] {
+html[dark-section-theme="dark"] {
     background-color: var(--color-black);
 }
