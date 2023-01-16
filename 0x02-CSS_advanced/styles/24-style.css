@@ -420,17 +420,17 @@ ul.row {
     fill: var(--text-color);
 }
 
-div.card-services h3.card-title {
+.card-services .card-title {
     margin: 0;
 }
 
-div.card-services > a {
+.card-services > a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-div.card-services > a:hover {
+.card-services > a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
