@@ -480,7 +480,7 @@ ul.row {
 }
 
 .section-hero {
-    background: 90rem auto;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title {
@@ -488,5 +488,5 @@ ul.row {
 }
 
 .section-hero .section-inner {
-    padding: 10rem 40rem 2rem 0rem;
+    padding: 10rem 40rem 2rem 0;
 }
