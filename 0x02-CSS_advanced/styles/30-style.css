@@ -545,6 +545,7 @@ ul.row {
     top: -0.1rem;
     left: -0.1rem;
     right: -0.1rem;
+    bottom: -0.1rem;
     z-index: 1;
 }
 
@@ -575,6 +576,6 @@ ul.row {
     content: "";
 }
 
-.card-title .card-work:hover {
+.card-work:hover .card-title {
     opacity: 1;
 }
